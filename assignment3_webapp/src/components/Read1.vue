@@ -1,0 +1,84 @@
+<template>
+    <div>
+      <p>
+        <router-link> to="/Read2">Read2</router-link>,
+        <router-link> to="/Cartoon">Cartoon</router-link>
+      </p>
+    <v-flex xs12 sm6 offset-sm3 mt-3 class="text-xs-center">
+        <v-img
+                src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/17201254_1300363340050160_707377373037724083_n.png?_nc_cat=111&_nc_ht=scontent.fbkk14-1.fna&oh=a681837bddc3d1bed783155102b4a63e&oe=5C6E253F">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/17554081_1312754662144361_1915042842581970631_n.png?_nc_cat=104&_nc_ht=scontent.fbkk14-1.fna&oh=0056cef7993d7cc11f31c64a7bc1e8e3&oe=5C6C600D">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/15590526_1217628161657012_1792221944051496472_n.png?_nc_cat=101&_nc_ht=scontent.fbkk10-1.fna&oh=4b5a06b194e031e8271a45ac38e6eea4&oe=5C717011">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/15621917_1219091318177363_3429345604588394166_n.png?_nc_cat=103&_nc_ht=scontent.fbkk10-1.fna&oh=5c85d61be9df439d9644e12cb1e6cdfc&oe=5CB0392A">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/15697791_1222498461169982_5881020712466462487_n.png?_nc_cat=109&_nc_ht=scontent.fbkk10-1.fna&oh=036e1a38aab24e0071fc60e92d107742&oe=5CA3B281">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/15780849_1232794540140374_7822645346915583767_n.png?_nc_cat=109&_nc_ht=scontent.fbkk10-1.fna&oh=7dc5c0d55b353fe2e2b36192ac784362&oe=5C71F3F8">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/15966242_1237737729646055_4190794614978005407_n.png?_nc_cat=110&_nc_ht=scontent.fbkk10-1.fna&oh=22e799779cfa739db0ba188d90a9253c&oe=5C6F3A57">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/16114066_1244354465651048_3874934851108702199_n.png?_nc_cat=104&_nc_ht=scontent.fbkk10-1.fna&oh=03fa014b3328f0cc3fe43fde5dd48613&oe=5C66DCFE">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/16684156_1270026869750474_3264178595850941797_n.png?_nc_cat=108&_nc_ht=scontent.fbkk10-1.fna&oh=197c3822daaf6031a97295d801fa0844&oe=5C65B1DE">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/17155682_1289602521126242_8039346900129963098_n.png?_nc_cat=111&_nc_ht=scontent.fbkk10-1.fna&oh=14e09e24162121c3a579d62cefb33ed5&oe=5C6F9300">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/17201176_1296061857146975_4431225300423063651_n.png?_nc_cat=110&_nc_ht=scontent.fbkk10-1.fna&oh=6f3b22e13d866499727b89f73f1113e4&oe=5C6672C4">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/15578569_1214028465350315_2748260911630931236_n.png?_nc_cat=104&_nc_ht=scontent.fbkk10-1.fna&oh=5e05783a2325f0a03c16f0d5268c7b8c&oe=5CA23B07">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/17952991_1336670509752776_2162647332932234266_n.png?_nc_cat=106&_nc_ht=scontent.fbkk10-1.fna&oh=5d127b5dddfa563e99294ca457cb54bf&oe=5C717C1E">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/19437269_1404402592979567_8534008917339101878_n.png?_nc_cat=105&_nc_ht=scontent.fbkk10-1.fna&oh=05ec7f4be5c52df46fa3251844b08446&oe=5CAD2CD1">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/20106484_1427643893988770_7366689535369015160_n.png?_nc_cat=108&_nc_ht=scontent.fbkk10-1.fna&oh=8fdb5d9f4cb0a18155a405416f826f39&oe=5C6C9029">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/20525934_1442473419172484_4436523651213732860_n.png?_nc_cat=104&_nc_ht=scontent.fbkk14-1.fna&oh=1e73d9a5282f1495d75f3936065c6aa2&oe=5C75B7FA">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/21150057_1465567450196414_358339573857993311_n.png?_nc_cat=111&_nc_ht=scontent.fbkk14-1.fna&oh=e24a08adbd8eb07f59e38fd7cc14979f&oe=5C6DB0D3">
+        </v-img>
+        <br>
+        <v-img
+                src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/39514800_1847302842022871_8456729660238069760_n.png?_nc_cat=100&_nc_ht=scontent.fbkk14-1.fna&oh=891b809c49ad64f458b66c8321be79e7&oe=5C770880">
+        </v-img>
+
+        <v-btn to="/Cartoon">All Cartoon</v-btn>
+        <v-btn to="/Read2">Next</v-btn>
+      </v-flex>
+      </div>
+</template>
